@@ -2,12 +2,11 @@
 Tradez is a Python marketplace built on the Django web framework. It allows users to buy and sell items online through a user-friendly interface.
 
 <br>
-<br>
 
 ## Usage
-Once Tradez is installed and configured, you can access the marketplace by visiting http://localhost:8000/ in your web browser.
+Once Tradez is installed and configured, you can access the marketplace by visiting http://localhost:8000/ in your web browser. <br>
 
-Tradez supports the following user roles:
+Tradez supports the following user roles:<br>
 
 Buyers: Can browse and purchase items
 Sellers: Can create and manage listings, view sales history
