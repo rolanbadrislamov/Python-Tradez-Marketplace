@@ -7,3 +7,4 @@ Once Tradez is installed and configured, you can access the marketplace by visit
 Tradez supports the following user roles:<br>
 * Buyers - Buyers can browse the marketplace, search for items, view item details, and purchase items that are available for sale. <br>
 * Sellers - Sellers can create and manage their own listings, view their dashboard, and communicate with customers through online conversations.<br>
+---
