@@ -7,9 +7,5 @@ Tradez is a Python marketplace built on the Django web framework. It allows user
 Once Tradez is installed and configured, you can access the marketplace by visiting http://localhost:8000/ in your web browser. <br>
 
 Tradez supports the following user roles:<br>
-
-Buyers: Can browse and purchase items
-Sellers: Can create and manage listings, view sales history
-To create a new user account, click the "Sign up" link in the top navigation bar.
-
-To create a new listing, click the "Sell" link in the top navigation bar.
+Buyers - Buyers can browse the marketplace, search for items, view item details, and purchase items that are available for sale. <br>
+Sellers - Sellers can create and manage their own listings, view their dashboard, and communicate with customers through online conversations.<br>
